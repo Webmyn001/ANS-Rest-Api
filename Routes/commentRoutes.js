@@ -6,7 +6,7 @@ const {createComment,
     getComments,
    
    
-} = require ('../Controller/commentController')
+} = require ("../Controller/commentController")
 
 const router = express.Router()
 

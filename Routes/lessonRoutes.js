@@ -7,7 +7,7 @@ const {createLesson,
     getLesson,
     updatelesson,
    
-} = require ('../Controller/lessonController')
+} = require ("../Controller/lessonController")
 
 const router = express.Router()
 
