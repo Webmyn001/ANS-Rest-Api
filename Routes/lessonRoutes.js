@@ -1,6 +1,5 @@
 const express = require('express')
 const mongoose = require('mongoose')
-const Lesson = require ("../Models/lessonModels")
 
 const {createLesson,
     deleteLesson,
