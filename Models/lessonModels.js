@@ -15,11 +15,27 @@ let Lesson = new Schema({
     },
     Body2: {
         type: String,
-        required: true
+       
     },
     Body3: {
         type: String,
-        required: true
+       
+    },
+    Body4: {
+        type: String,
+       
+    },
+    Body5: {
+        type: String,
+        
+    },
+    Body6: {
+        type: String,
+       
+    },
+    Body7: {
+        type: String,
+       
     },
     images: [
         {
@@ -38,9 +54,9 @@ let Lesson = new Schema({
          ],
     
     
-    Body4: {
+    Body8: {
         type: String,
-        required: true
+       
     },
     
     
