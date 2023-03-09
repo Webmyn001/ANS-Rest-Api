@@ -49,7 +49,7 @@ const createLesson = async (req, res,next) =>  {
  // get all lessons
 
  const getLessons = async (req,res) => {
-   const lesson = await Lesson.find({}).sort({createdAt:-1})
+   const lesson = await Lesson.find({}).sort({createdAt:+1})
    res.status(200).json(lesson)
  }
 
