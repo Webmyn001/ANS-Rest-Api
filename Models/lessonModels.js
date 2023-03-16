@@ -37,6 +37,38 @@ let Lesson = new Schema({
         type: String,
        
     },
+    Body8: {
+        type: String,
+       
+    },
+    Body9: {
+        type: String,
+       
+    },
+    Body10: {
+        type: String,
+       
+    },
+    Body11: {
+        type: String,
+       
+    },
+    Body12: {
+        type: String,
+       
+    },
+    Body13: {
+        type: String,
+       
+    },
+    Body14: {
+        type: String,
+       
+    },
+    Body15: {
+        type: String,
+       
+    },
     images: [
         {
             public_id:{
@@ -54,7 +86,7 @@ let Lesson = new Schema({
          ],
     
     
-    Body8: {
+    Body16: {
         type: String,
        
     },
