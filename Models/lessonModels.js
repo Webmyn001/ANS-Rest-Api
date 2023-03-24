@@ -69,6 +69,66 @@ let Lesson = new Schema({
         type: String,
        
     },
+    Subtitle1: {
+        type: String,
+       
+    },
+    Subtitle2: {
+        type: String,
+       
+    }, Subtitle3: {
+        type: String,
+       
+    },
+    Subtitle4: {
+        type: String,
+       
+    },
+    Subtitle5: {
+        type: String,
+       
+    },
+    Subtitle6: {
+        type: String,
+       
+    },
+    Subtitle7: {
+        type: String,
+       
+    },
+    Subtitle8: {
+        type: String,
+       
+    },
+    Subtitle9: {
+        type: String,
+       
+    },
+    Subtitle10: {
+        type: String,
+       
+    },
+    Subtitle11: {
+        type: String,
+       
+    },
+    Subtitle12: {
+        type: String,
+       
+    },
+    Subtitle13: {
+        type: String,
+       
+    },
+    Subtitle14: {
+        type: String,
+       
+    },
+    Subtitle15: {
+        type: String,
+       
+    },
+   
     images: [
         {
             public_id:{
